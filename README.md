@@ -1,2 +1,2 @@
-# ims-json-assignment
-This assignment consists of managing of a store inventory with accordance to purchase and sales.
+# inventory-management-system
+inventory management is a software which help us to summarise and gather our stock in store at a one place with each and every information relating to stocks in it.
